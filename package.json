@@ -10,5 +10,8 @@
   "license": "MIT",
   "keywords": [
     "javascript"
-  ]
+  ],
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
